@@ -2,6 +2,9 @@
 
 This repository contains the documentation and code snippets for implementing secure coding practices in PHP applications. The white paper included in this repository was developed as part of our capstone project at York University.
 
+![Fortifying PHP](https://miro.medium.com/v2/resize:fit:828/format:webp/1*nz_lxObVLV1t6yMPrUii7w.png)
+
+
 ## White Paper
 
 The white paper discusses the importance of secure coding practices in PHP applications to mitigate cyber risks and safeguard sensitive data. It covers various methodologies including sanitizing user input, input validation, authentication mechanisms, secure configuration, encryption, error handling, and file handling. The document provides practical recommendations and guidelines for enhancing the security posture of PHP applications.
