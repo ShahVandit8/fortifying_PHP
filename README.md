@@ -25,4 +25,7 @@ This repository also includes code snippets mentioned in the white paper for ref
 
 **Note:** This repository serves as a resource for developers and organizations seeking to improve the security of their PHP applications.
 
----
+## Authors
+
+- [@ShahVandit8](https://github.com/ShahVandit8)
+- [@Neel1901dev](https://github.com/Neel1901dev)
